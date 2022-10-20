@@ -1,2 +1,5 @@
 # Calculator
 Calculadora creada con HTML, CSS y JavaScript.
+
+<img width="235" alt="68747470733a2f2f692e6962622e636f2f514a424e7835762f53637265656e2d53686f742d323032312d30312d33312d61742d32322d34312d33362e706e67" src="https://user-images.githubusercontent.com/95434043/196957380-a22286b2-4154-414d-883f-1de595105993.png">
+
